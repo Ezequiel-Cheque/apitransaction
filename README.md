@@ -1,0 +1,1 @@
+This is an api transaction forex, here we gonna have a service to send the psps configuration, create transactions, and all the services that transactions in forex need
